@@ -61,7 +61,11 @@ a {
   width: 33%;
   border-radius: 20px;
   margin: 0 2%;
-  padding: 0 15px;
+  padding: 25px 15px;
+}
+
+.illustrators p {
+  margin-bottom: 0;
 }
 
 #illustrator-1 {
